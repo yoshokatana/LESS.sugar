@@ -4,3 +4,5 @@ This is (or will be) a proper, working LESS sugar for Espresso 2. It was forked 
 
 #STATUS#
 I'm going to test variables and mixins, then get to work getting nesting to work properly.
+
+Also, I'm saving CodeSense for last.
