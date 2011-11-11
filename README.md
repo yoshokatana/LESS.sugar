@@ -1,6 +1,6 @@
 # WARNING: This isn't done yet! #
 
-## I'm hoping to get this into a beta state by November 1st, 2011. Please check back here then. ##
+## I'm hoping to get this into a beta state by mid-late November. Please check back here then. ##
 
 This is (or will be) a proper, working LESS sugar for Espresso 2. It was forked from hawx, and some code was inspired by the other deprecated LESS sugar by Elliott Cable. Here's the status of the initial commit, in hawx's own words:
 
